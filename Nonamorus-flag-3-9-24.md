@@ -1,5 +1,5 @@
-## Nonamorous flag alternitive design
-I have made a alterinative flag for Nonamorous that does not include symbols. 
+## Nonamorous flag alternative design
+I have made a alternative flag for Nonamorous that does not include symbols. 
 
 Created on Sep 3rd 2024 by ShowierData9978
 
