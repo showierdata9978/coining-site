@@ -1,4 +1,4 @@
-# My Coins
+## My Coins
 
 This repo is where I will put everything I coin. This should be considered an alternitive to a tumblr blog (As I do not have a tumblr account as of 8/30/24).
 
