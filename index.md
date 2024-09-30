@@ -8,5 +8,6 @@ And yes I will take requests to coin stuff here if asked. You can find how to co
 - [Agenby-](./agenby-8-31-24.md)
 - [Nonamorus Flag Alt](./Nonamorus-flag-3-9-24.md)
 - [/ns tonetag](./tonetag-ns-8-9-24.md)
+- [demiaestheticspike](./demiaestheticspike-9-30-24.md)
 - [licence](./wikis.md)
 - [github](https://github.com/showierdata9978/coining-site)
